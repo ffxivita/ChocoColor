@@ -8,10 +8,9 @@ Ho visto parecchi siti dove potete controllare il numero di bacche totali per mo
 Eseguite il file exe o il file jar compilato con due parametri. Il primo sarà il colore di partenza del vostro chocobo, mentre il secondo sarà il colore desiderato. Una corretta scrittura dei colori, vi darà il processo da seguire assieme alle bacche corrette. In caso contrario, mosterà la lista dei colori disponibili.
 
 ### Esempi
-----
-choco-color.exe "Desert Yellow" "Ash Gray"
-----
-----
-java -jar choco-color.jar "Desert Yellow" "Ash Gray" 
-----
 
+```choco-color.exe "Desert Yellow" "Ash Gray"```
+```java -jar choco-color.jar "Desert Yellow" "Ash Gray"``` 
+
+### Release
+Le release sono pubblicate a [questo indirizzo](https://github.com/DarkArtek/ChocoColor/releases)
