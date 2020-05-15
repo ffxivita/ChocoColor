@@ -17,4 +17,4 @@ java -jar choco-color.jar "Desert Yellow" "Ash Gray"
 ``` 
 
 ### Release
-Le release sono pubblicate a [questo indirizzo](https://github.com/DarkArtek/ChocoColor/releases)
+Le release sono pubblicate a [questo indirizzo](/releases)
