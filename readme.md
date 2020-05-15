@@ -9,8 +9,12 @@ Eseguite il file exe o il file jar compilato con due parametri. Il primo sarà i
 
 ### Esempi
 
-```choco-color.exe "Desert Yellow" "Ash Gray"```
-```java -jar choco-color.jar "Desert Yellow" "Ash Gray"``` 
+```
+choco-color.exe "Desert Yellow" "Ash Gray"
+```
+```
+java -jar choco-color.jar "Desert Yellow" "Ash Gray"
+``` 
 
 ### Release
 Le release sono pubblicate a [questo indirizzo](https://github.com/DarkArtek/ChocoColor/releases)
