@@ -18,8 +18,3 @@ java -jar choco-color.jar "Desert Yellow" "Ash Gray"
 
 ### Release
 Le release sono pubblicate a [questo indirizzo](https://github.com/DarkArtek/ChocoColor/releases)
-
-### Ringraziamenti
-La mia famiglia. <br />
-Le persone dello staff di [FFXIVITA](https://ffxivita.it)<br /> 
-Altea, per avermi spinto a creare questo algoritmo. 
